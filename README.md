@@ -2,7 +2,6 @@
 
 This project features an interactive Power BI dashboard analyzing DMart's grocery sales data to uncover actionable business insights.
 
----
 
 ## 🔍 Features
 - Key Metrics: Total Sales, Profit, MoM Growth
@@ -10,7 +9,6 @@ This project features an interactive Power BI dashboard analyzing DMart's grocer
 - Filters: Region, State, Category, Date
 - Slicers & Drilldowns for interactive exploration
 
----
 
 ## 📈 Insights
 - Western region tops in profit
@@ -18,14 +16,12 @@ This project features an interactive Power BI dashboard analyzing DMart's grocer
 - Beverages & Snacks lead categories
 - Chips & Juices dominate sub-category sales
 
----
 
 ## 🛠️ Tools Used
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - PowerPoint
 
----
 
 ## 📁 Files Included
 - 📷 Dashboard Screenshot
