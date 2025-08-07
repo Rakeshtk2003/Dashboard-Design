@@ -1,4 +1,5 @@
 📊 Interactive Sales Dashboard – Power BI
+
 This project showcases an interactive Power BI dashboard built using DMart's grocery sales dataset. It is designed for quick business insights and stakeholder reporting.
 
 🔍 Features
