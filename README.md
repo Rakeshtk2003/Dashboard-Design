@@ -1,35 +1,34 @@
-📊 Interactive Sales Dashboard – Power BI
+# 📊  Sales Dashboard – Power BI
 
-This project showcases an interactive Power BI dashboard built using DMart's grocery sales dataset. It is designed for quick business insights and stakeholder reporting.
+This project features an interactive Power BI dashboard analyzing DMart's grocery sales data to uncover actionable business insights.
 
-🔍 Features
-KPIs: Total Sales, Profit, MoM Growth
+---
 
-Visuals: Bar, Line, Pie, Tree Maps
+## 🔍 Features
+- Key Metrics: Total Sales, Profit, MoM Growth
+- Visuals: Bar, Line, Pie, Tree Maps
+- Filters: Region, State, Category, Date
+- Slicers & Drilldowns for interactive exploration
 
-Filters: Region, State, Category, Date
+---
 
-Interactive slicers and drilldowns
+## 📈 Insights
+- Western region tops in profit
+- Maharashtra & Tamil Nadu are high performers
+- Beverages & Snacks lead categories
+- Chips & Juices dominate sub-category sales
 
-📈 Business Insights
-Western region leads in profit.
+---
 
-Maharashtra & Tamil Nadu show high profitability.
+## 🛠️ Tools Used
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
+- PowerPoint
 
-Beverages & Snacks are top-performing categories.
+---
 
-Chips & Juices dominate sub-category sales.
-
-🛠️ Tools Used
-Power BI Desktop
-
-DAX for KPI logic
-
-Canva / PowerPoint for summary
-
-📁 Files Included
-Dashboard Screenshot
-
-Presentation (.pptx)
-
-README.md
+## 📁 Files Included
+- 📷 Dashboard Screenshot
+- 📊 Power BI `.pbix` file 
+- 📝 Summary Presentation  
+- 📄 `README.md`
